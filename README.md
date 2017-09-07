@@ -1,3 +1,3 @@
 # DnAlgo
 
-A repository for googel code jam qustions
+A repository for google code jam qustions
